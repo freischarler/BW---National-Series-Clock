@@ -1,0 +1,35 @@
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\BW - National Series Clock.exe
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\BW - National Series Clock.deps.json
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\BW - National Series Clock.runtimeconfig.json
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\BW - National Series Clock.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\BW - National Series Clock.pdb
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\EPPlus.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW___National_Series_Clock.Clock.resources
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW___National_Series_Clock.Control.resources
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW___National_Series_Clock.Properties.Resources.resources
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.AssemblyInfo.cs
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.csproj.CopyComplete
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\refint\BW - National Series Clock.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.pdb
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW - National Series Clock.genruntimeconfig.cache
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\ref\BW - National Series Clock.dll
+C:\Users\marti\source\repos\BW - National Series Clock\BW - National Series Clock\obj\Release\net6.0-windows\BW___National_Series_Clock.TimeSettings.resources
